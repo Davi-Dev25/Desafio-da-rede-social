@@ -54,9 +54,9 @@ input:hover{
 footer{
     text-align: center;
     background-color: var(--cor3);
-    height: 30px;
-    padding: 10px;
-    font-size: 2em;
+    margin: -10px;
+    padding: 6px;
+    font-size: 0.8em;
 }
 footer a{
     color: white;
