@@ -19,8 +19,8 @@ main{
     background-color: var(--cor4);
     width: 600px;
     min-width: 320px;
-    margin:50px auto;
-    padding: 22px;
+    margin: 50px auto 20px;
+    padding: 15px;
     text-align: center;
     font-size: 1.6em;
     font-family: var(--font);
@@ -35,7 +35,7 @@ img{
 }
 input{
     height: 70px;
-    width: 550px;
+    width: 450px;
     display: block;
     margin: 20px auto;
     background-color: var(--cor3);
