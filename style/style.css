@@ -47,8 +47,9 @@ a{
     text-decoration: none;
 }
 input:hover{
-    background-color: white;
+    background-color: #F8D586;
     color: var(--cor3);
+    transition-duration: .4s;
     
 }
 footer{
@@ -64,6 +65,7 @@ footer a{
 }
 footer a:hover{
     color: var(--cor1);
+
 }
 #nome{
     color: white;
