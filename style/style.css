@@ -18,7 +18,7 @@ body{
 main{
     background-color: var(--cor4);
     width: 600px;
-    min-width: 340px;
+    min-width: 320px;
     margin:50px auto;
     padding: 22px;
     text-align: center;
@@ -52,8 +52,9 @@ input:hover{
     
 }
 footer{
-    text-align: center;
     background-color: var(--cor3);
+    text-align: center;
+    margin: auto;
     margin: -10px;
     padding: 6px;
     font-size: 0.8em;
