@@ -12,13 +12,17 @@
 
 --font: 'inter', sanserif;
 }
+*{
+    margin: 0px;
+    padding: 0px;
+}
 body{
     background-color: var(--cor5);
 }
 main{
     background-color: var(--cor4);
-    width: 600px;
-    min-width: 320px;
+    min-width:300px;
+    max-width: 840px;
     margin: 50px auto 20px;
     padding: 15px;
     text-align: center;
