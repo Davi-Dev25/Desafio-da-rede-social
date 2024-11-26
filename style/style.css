@@ -21,9 +21,9 @@ body{
 }
 main{
     background-color: var(--cor4);
-    min-width:300px;
+    min-width:370px;
     max-width: 840px;
-    margin: 50px auto 20px;
+    margin: 50px auto 20px auto;
     padding: 15px;
     text-align: center;
     font-size: 1.6em;
@@ -39,7 +39,8 @@ img{
 }
 input{
     height: 70px;
-    width: 450px;
+    min-width: 340px;
+    max-width: 650px;
     display: block;
     margin: 20px auto;
     background-color: var(--cor3);
