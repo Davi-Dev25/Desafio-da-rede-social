@@ -56,7 +56,7 @@ a{
     text-decoration: none;
 }
 input:hover{
-    color: var(--cor1);
+    background-color: var(--cor1);
     transition-duration: .3s;
     
 }
